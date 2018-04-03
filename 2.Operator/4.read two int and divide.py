@@ -1,7 +1,7 @@
 
-x = int(input("enter int: "))
+x = int(input("enter an int: "))
 
-y = int(input("enter int: "))
+y = int(input("enter an int: "))
 
 if(not y == 0):
     result = x/y;
