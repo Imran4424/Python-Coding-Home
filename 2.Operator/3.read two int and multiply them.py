@@ -5,4 +5,4 @@ num2 = int(input("enter int: "))
 
 result = num * num2
 
-pri
+print("Multipication is: " + str(result))
