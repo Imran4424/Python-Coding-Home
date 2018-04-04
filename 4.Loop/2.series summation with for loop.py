@@ -2,10 +2,10 @@
 
 n = int(input("enter an int: "))
 
-sum = 0
+summation = 0
 
 for i in range(1,n+1):
-    sum += i
+    summation += i
 
 
 print("The summation is: ", sum)
