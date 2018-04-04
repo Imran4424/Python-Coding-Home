@@ -3,7 +3,7 @@ indentation is the biggest factor of python programming
 
 it detects the current function, current loop and current if-else statement
 
-so we need to use it wi
+so we need to use it wisely
 
 '''
 
