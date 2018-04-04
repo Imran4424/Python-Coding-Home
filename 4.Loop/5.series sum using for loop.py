@@ -7,3 +7,4 @@ summation = 0
 for i in range(4,n+1,8):
     summation += i 
 
+print("The summation is: ", summation)
