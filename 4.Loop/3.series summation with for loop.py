@@ -8,4 +8,4 @@ for i in range(2,n+1,2):
 
     summation += i
 
-print("The summation is: ")
+print("The summation is: ", summation)
