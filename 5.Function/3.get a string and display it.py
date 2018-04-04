@@ -4,3 +4,5 @@ def Display(raven):
 
 
 messages = input()
+
+Display(messages)
