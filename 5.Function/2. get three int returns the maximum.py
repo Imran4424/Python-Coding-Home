@@ -20,4 +20,4 @@ c = int(input("enter an int: "))
 
 max_value = maximum(a,b,c)
 
-print()
+print("The Maximum value is: ",max_value)
